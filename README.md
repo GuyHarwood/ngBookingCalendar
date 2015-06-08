@@ -27,7 +27,7 @@ Install
 </head>
 <body ng-controller="Ctrl as ctrl">
 
-	<ng-booking-calendar></ng-booking-calendar>
+<ng-booking-calendar></ng-booking-calendar>
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.0/angular.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js"></script>
