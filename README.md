@@ -33,7 +33,7 @@ Install
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.3/moment-with-locales.min.js"></script>
 <script type="text/javascript" src="bower_components/src/js/ngBookingCalendar.js"></script>
 <script type="text/javascript">
-var app = angular.module('app', ['jkuri.datepicker']);
+var app = angular.module('app', ['jkuri.bookingcalendar']);
 app.controller('Ctrl', [function() {
 	var self = this;
 }]);
