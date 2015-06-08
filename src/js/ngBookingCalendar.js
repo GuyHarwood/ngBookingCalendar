@@ -160,6 +160,6 @@ angular.module('jkuri.bookingcalendar', [])
 		'    <i class="fa fa-angle-right" ng-click="nextMonth()"></i>' +
 		'  </div>' +
 		'</div>'
-	}
+	};
 
 }]);
