@@ -7,6 +7,7 @@
 
 .ng-multi-calendar > .ng-multi-calendar-select {
 	display: inline-block;
+  width: 100%;
 	margin: 0 0 10px 10px;
 }
 
